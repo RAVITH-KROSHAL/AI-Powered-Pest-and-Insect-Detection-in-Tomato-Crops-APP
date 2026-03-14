@@ -125,6 +125,6 @@ The system achieved real-time inference speed above 30 FPS, making it suitable f
 
 Author
 
-Ravith Kroshal Herath
-Faculty of Computing
+Ravith Kroshal Herath,
+Faculty of Computing,
 Sri Lanka Institute of Information Technology (SLIIT)
